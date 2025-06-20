@@ -48,3 +48,11 @@
     flex-basis: 50%;
     max-width: 50%;
  }
+
+section.product-info {
+    display: grid;
+}
+
+section.product-info h1 {
+    font-size: 3rem;
+}
